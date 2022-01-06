@@ -69,15 +69,15 @@ h3{
     padding: 20px;
 }
 #mission{
-    background-image: linear-gradient(skyblue,white);
+    background: rgb(233, 241, 245);
     margin-left: 9%;
     margin-right: 2%;
 }
 #vission{
-    background-image: linear-gradient(pink,white);
+    background: rgb(221, 236, 199)
 }
 #goals{
-    background-image: linear-gradient(gray,white);
+    background: rgb(247, 228, 226);
     margin-right: 9%;
     margin-left: 2%;
 }
@@ -128,4 +128,37 @@ h3{
 }
 .footer-h3-p-id{
     color: white;
+}
+
+/*===      section 5    ===       ================================*/
+h4{
+    font-size: 25px;
+}
+.img-width{
+    width: 100%;
+    margin-top: 3%;
+    padding-left: 10%;
+    background: rgb(227, 236, 241);
+    padding: 50px;
+}
+#basic-concept-pic{
+    width: 85%;
+    margin-left: 28%;
+    border-radius: 40px;
+}
+.rewards-badge-class{
+    color: white;
+   background: rgb(32, 32, 90);
+   border-radius: 40px;
+   padding: 73px;
+   width: 50%;  
+   margin-left: 15%;
+   text-align: center;
+   margin-right: 4%;
+}
+#badges{
+      width: 100%;
+}
+.link-div{
+    width: 30%;
 }
